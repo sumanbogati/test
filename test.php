@@ -1,5 +1,5 @@
 <?php
     if ($_GET['str']) : 
-        echo "yes";
+        echo "yes hello";
     endif;
 ?>
